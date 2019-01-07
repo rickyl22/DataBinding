@@ -29,6 +29,18 @@
             android:layout_height="wrap_content"
             android:textSize="24dp"
             android:text="@{article.title}" />
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="24dp"
+            android:text="bobooooooooooooooooooooooooooo" />
+        <TextView
+            android:id="@+id/textView32"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="24dp"
+            android:text="bobooooooooooooooooooooooooooogggg" />
 
     </LinearLayout>
 </layout>
